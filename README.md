@@ -100,7 +100,9 @@ Navigate to the frontend folder and run:
 npm start
 The frontend application will start at http://localhost:3000.
 
-**FOLDER STRUCTURE**
+## **FOLDER STRUCTURE**
+
+```
 mern-app/
 ├── backend/
 │   ├── controllers/       # Backend controllers for handling requests
@@ -120,3 +122,4 @@ mern-app/
 │   │   ├── index.js       # Entry point for the frontend
 │   ├── .env               # Frontend environment variables
 ├── README.md              # Project documentation
+```
